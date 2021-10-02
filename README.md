@@ -11,6 +11,8 @@ Automação de testes de API Rest de um software denominado Lojinha. Os sub-tóp
   
 - [Maven](https://maven.apache.org/)
 
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+
 ## 🤖 Testes Automatizados
 Testes para validar as partições de equivalência relacionadas ao valor do produto na Lojinha, que estão vinculados diretamente a regra de negócio que diz que o valor do produto deve estar entre R$ 0,01 e R$ 7.000,00.
 
